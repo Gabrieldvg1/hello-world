@@ -2,7 +2,7 @@
 First repository in GutHub
 Hi Humans!
 
-Hubot here, I like Node.js and Coffeescript (that's what I'm made of!).
+Hi there, this is Gabriel and I want to be the best web developer of the world!
 
 
 
